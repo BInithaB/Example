@@ -2,6 +2,4 @@
 
 <strong>Steps to Clone and build the project</strong>
 
-<code>
-	git clone -b <pre><branch_name></pre> https://github.com/BInithaB/Example.git
-</code>
+git clone -b &lt;branch_name&gt; https://github.com/BInithaB/Example.git
